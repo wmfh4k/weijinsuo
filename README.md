@@ -1,3 +1,3 @@
 # weijinsuo
 bootstrap
-[demo](https://wmfh4k.github.io/weijinsuo/index.html）
+[demo](https://wmfh4k.github.io/weijinsuo/weijinsuo1.html）
